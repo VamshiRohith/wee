@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Mini_Wardrobe", "Mni_Wardrobe\Mini_Wardrobe.dtproj", "{4CDDDB90-E9AF-41F4-B5F6-36BE2FDB4CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CDDDB90-E9AF-41F4-B5F6-36BE2FDB4CD5}.Development|Default.ActiveCfg = Development
+		{4CDDDB90-E9AF-41F4-B5F6-36BE2FDB4CD5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
